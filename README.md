@@ -1,5 +1,15 @@
 # On Data-Driven Discovery Of Symbolic Differential Equations From Unsuitable Coordinates Using SINDy-Autoencoders
 
+<div align="center">
+    
+<img width=800 src="https://github.com/psaegert/sindy-autoencoders-thesis/assets/36567814/ca177943-7b8d-46c9-b5da-0c84a5a73924"/>
+
+<p>
+(from '<a href="https://arxiv.org/abs/1904.02107">Data-driven discovery of coordinates and governing equations</a>' by K. Champion et al., edited)
+</p>
+</div>
+
+
 ## Abstract
 
 "Machine Learning Methods have evolved to a powerful tool in many fields of science, including physics. While methods have become fast and sophisticated enough to learn a wide variety of tasks, they often come at the cost of interpretability. This problem can be partially overcome by making use of symbolic regression as shown in <a href="https://www.pnas.org/doi/full/10.1073/pnas.1517384113">[1]</a> and <a href="https://proceedings.neurips.cc/paper/2020/file/c9f2f917078bd2db12f23c3b413d9cba-Paper.pdf">[2]</a>, but it requires data in suitable coordinates. In my work, I assess and improve the SINDY-Autoencoder proposed by K. Champion et al. <a href="https://arxiv.org/abs/1904.02107">[3]</a>, which is designed to learn not only symbolic equations of motion from high-dimensional data, but also the coordinates in which the equations would be most conveniently formulated. I conduct a verification and replication of the proposed method before creating and evaluating variants which eventually lead to better and more reliable results."
